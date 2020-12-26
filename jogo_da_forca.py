@@ -65,4 +65,6 @@ def jogar():
     print(f'{"Palavra:":>40} {computador}')
 
 
+print(95 * '*')
+
 exibir()
